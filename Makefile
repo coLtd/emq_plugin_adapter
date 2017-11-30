@@ -1,5 +1,5 @@
 PROJECT = emq_plugin_adapter
-PROJECT_DESCRIPTION = EMQ Plugin Template
+PROJECT_DESCRIPTION = EMQ Plugin Adapter
 PROJECT_VERSION = 2.3
 
 BUILD_DEPS = emqttd cuttlefish
