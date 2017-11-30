@@ -1,0 +1,1 @@
+# emq_plugin_adapter
